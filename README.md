@@ -1,0 +1,2 @@
+# AFD
+Automat Finit Determinist.
