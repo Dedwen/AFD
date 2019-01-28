@@ -1,2 +1,2 @@
 # AFD
-Automat Finit Determinist.
+Automat Finit Determinist
